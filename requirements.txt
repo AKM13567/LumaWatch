@@ -1,0 +1,6 @@
+screen-brightness-control
+mss
+opencv-python-headless
+numpy
+pystray
+Pillow

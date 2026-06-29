@@ -1,0 +1,7 @@
+__pycache__/
+dist/
+build/
+*.spec
+*.exe
+*.pyc
+.lumawatch.json
