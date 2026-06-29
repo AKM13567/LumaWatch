@@ -1,5 +1,4 @@
-# Let's generate a well-structured README.md file content and save it as README.md
-readme_content = """# LumaWatch 🌙
+# LumaWatch 🌙
 
 LumaWatch is an ultra-lightweight, intelligent adaptive monitor brightness engine built in Python. By dynamically sampling your screen's content and sending native commands directly to your monitor's hardware, LumaWatch provides smooth, automated brightness adjustments with zero background overhead.
 
