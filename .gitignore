@@ -5,3 +5,6 @@ build/
 *.exe
 *.pyc
 .lumawatch.json
+.venv/
+__pycache__/
+*.pyc

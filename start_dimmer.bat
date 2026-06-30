@@ -1,2 +1,4 @@
 @echo off
-start "" pythonw "%~dp0screen_dimmer.py"
+REM Kept for backwards compatibility -- see run_lumawatch.bat
+cd /d "%~dp0"
+call run_lumawatch.bat
